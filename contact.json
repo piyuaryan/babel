@@ -1,1 +1,6 @@
-{"whisper-identity": "Babel",  "name": "Babel" , "dapp-url": "http://joinbabel.com", "bot-url": "http://joinbabel.com/bot.js"}
+{
+    "whisper-identity": "51-Babel",
+    "name": "#51-Babel" , 
+    "dapp-url": "http://joinbabel.com",
+    "bot-url": "http://joinbabel.com/bot.js"
+}
